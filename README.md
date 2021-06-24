@@ -1,5 +1,5 @@
 # Automatic grade notification
-This script informs me whenever my university grades are online.
+This script informs me whenever my university grades are online. 
 
 ## Reason of doing this:
 After you have completed your exam or submitted a paper or thesis, you will not receive a response if your grade is online. So there is no official timeframe in which the grades should be online, and neither is the professor obliged to let you know.
