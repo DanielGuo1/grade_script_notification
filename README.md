@@ -53,9 +53,9 @@ You need to download python and selenium in order to run the script [Download Py
 ### Installation
 
 1. Clone the repo
-   ```sh
-   git clone https://github.com/DanielGuo1/grade_script_notification.git
-   ```
+ ```sh
+ git clone https://github.com/DanielGuo1/grade_script_notification.git
+ ```
 2. Put your University login credentials in `grade_script.py`:
 ```python
 driver.find_element_by_id('asdf').send_keys('USERNAME')
